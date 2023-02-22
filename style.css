@@ -5,6 +5,8 @@ body {
     height: 100vh;
     margin: 0;
     background: #222;
+    font-family: 'Courgette', cursive;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .card {
