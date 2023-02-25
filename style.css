@@ -77,7 +77,7 @@ body {
   }
   
   .weather.loading:after {
-    visibility: hidden;
+    visibility: visible;
     content: "Loading...";
     color: white;
     position: absolute;
